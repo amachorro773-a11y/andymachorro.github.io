@@ -13,7 +13,7 @@ IT Intern @ BPUSD (Baldwin Park Unified School District)
 Cashier, Customer Service @ Walmart Inc.
 - Maintained 100% precision in high-volume financial transactions and daily reconciliations, ensuring the integrity of store-level sales data.
 - Monitored real-time checkout bottlenecks and customer flow, providing actionable feedback to management to improve operational efficiency during peak hours.
-- Stakeholder Communication: Translated complex store policies and transactional data into clear, actionable solutions for 50+ customers daily to resolve recurring service issues
+- Translated complex store policies and transactional data into clear, actionable solutions for 50+ customers daily to resolve recurring service issues
 
 ### Projects
 Cyclistic: Data-Driven Strategies for Membership Growth
