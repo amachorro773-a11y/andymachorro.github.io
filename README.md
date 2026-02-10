@@ -7,7 +7,7 @@ University of California San Diego, CA
 Bachelor of Science: Mathematics And Computer Science
 
 ### Work Experience 
-**IT Intern @ BPUSD (Baldwin Park Unified School District)**  *** (June - July 2021)***
+**IT Intern @ BPUSD (Baldwin Park Unified School District)**  ***(June - July 2021)***
 - Generated data-driven system performance reports for senior leadership, translating technical metrics into actionable business insights.
 - Maintained high-integrity inventory databases for organizational hardware, ensuring 100% accuracy in resource tracking and lifecycle management.
 - Collaborated in interdepartmental project planning, aligning technical requirements with goals and future IT roadmaps.
