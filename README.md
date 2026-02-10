@@ -1,5 +1,7 @@
 # Data Analyst
 
+**Technical Skills: SQL, Spreadsheet Software (Excel, Google Sheets), BI Tools (Tableau), Python, Java, R**
+
 ### Education
 University of California San Diego, CA 
 Bachelor of Science: Mathematics And Computer Science
