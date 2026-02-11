@@ -15,7 +15,7 @@
 - Analyzed real-time checkout flow and bottlenecks to provide management with efficiency-improving feedback.
 
 ## Certifications
-**Google Data Analytics (_Jan 2025_)**
+**[Google Data Analytics Professional Certificate](https://coursera.org/share/0d73e754d8ed38551d775fc2323be34b) (_Jan 2025_)**
 - Applied the Ask–Act lifecycle to identify market trends and develop data-backed growth recommendations.
 - Advanced SQL querying and interactive dashboarding in Tableau and R.
 
