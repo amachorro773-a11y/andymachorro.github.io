@@ -3,7 +3,7 @@
 **Technical Skills: SQL, Spreadsheet Software (Excel, Google Sheets), BI Tools (Tableau), Python, Java, R**
 
 ## Education
-- Bachelor of Science: Mathematics And Computer Science | University of California San Diego (_Jan 2025_)		
+- B.S., Mathematics And Computer Science | University of California San Diego (_Jan 2025_)		
 
 
 
