@@ -10,7 +10,7 @@
 - Generated system performance reports for senior leadership, translating technical metrics into business insights.
 - Maintained high-integrity inventory databases for organizational hardware, ensuring 100% accuracy in resource tracking and lifecycle management.
 
-**Cashier, Customer Service @ Walmart Inc.**  ***(July 2020 - August 2022)***
+**Cashier, Customer Service @ Walmart Inc.**  ***(June 2021 - 2023)***
 - Maintained 100% precision in high-volume financial transactions and daily reconciliations, ensuring the integrity of store-level sales data.
 - Monitored real-time checkout bottlenecks and customer flow, providing actionable feedback to management to improve operational efficiency during peak hours.
 
