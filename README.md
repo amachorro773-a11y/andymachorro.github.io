@@ -20,10 +20,10 @@
 - Advanced SQL querying and interactive dashboarding in Tableau and R.
 
 ## Projects
-Cyclistic: Data-Driven Strategies for Membership Growth
+**Cyclistic: Data-Driven Strategies for Membership Growth**
 - Conducted a comprehensive analysis of 5.6 million bike-share trip records to identify behavioral differences between casual riders and annual members.       Using SQL and Tableau, I identified a distinct "Leisure Segment" that peaks on weekends with double the average ride duration of commuters. I developed      a three-pillar strategic plan, including a new "Weekend Explorer" membership tier designed to convert users into predictable, recurring revenue streams.
     - Data Processing: SQL (Google BigQuery)
     - Data Visualization: Tableau Public
-    - Business Intelligence: Market Segmentation & Revenue Optimization
+    - Market Segmentation & Revenue Optimization
   
 [View Full Case Study Here](https://github.com/amachorro773-a11y/Cyclistic_data_analysis)
