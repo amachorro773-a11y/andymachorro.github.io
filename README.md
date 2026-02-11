@@ -2,11 +2,11 @@
 
 **Technical Skills: SQL, Spreadsheet Software (Excel, Google Sheets), BI Tools (Tableau), Python, Java, R**
 
-### Education
+## Education
 University of California San Diego, CA 
 Bachelor of Science: Mathematics And Computer Science
 
-### Work Experience 
+## Work Experience 
 **IT Intern @ BPUSD (Baldwin Park Unified School District)**  ***(June - July 2021)***
 - Generated data-driven system performance reports for senior leadership, translating technical metrics into actionable business insights.
 - Maintained high-integrity inventory databases for organizational hardware, ensuring 100% accuracy in resource tracking and lifecycle management.
@@ -17,7 +17,7 @@ Bachelor of Science: Mathematics And Computer Science
 - Monitored real-time checkout bottlenecks and customer flow, providing actionable feedback to management to improve operational efficiency during peak hours.
 - Translated complex store policies and transactional data into clear, actionable solutions for 50+ customers daily to resolve recurring service issues
 
-### Projects
+## Projects
 Cyclistic: Data-Driven Strategies for Membership Growth
 - Conducted a comprehensive analysis of 5.6 million bike-share trip records to identify behavioral differences between casual riders and annual members.       Using SQL and Tableau, I identified a distinct "Leisure Segment" that peaks on weekends with double the average ride duration of commuters. I developed      a three-pillar strategic plan, including a new "Weekend Explorer" membership tier designed to convert users into predictable, recurring revenue streams.
     - Key Skills & Tools
