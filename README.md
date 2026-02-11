@@ -5,8 +5,6 @@
 ## Education
 - B.S., Mathematics And Computer Science | University of California San Diego (_Jan 2025_)		
 
-
-
 ## Work Experience 
 **IT Intern @ BPUSD (Baldwin Park Unified School District)**  ***(June - July 2021)***
 - Generated data-driven system performance reports for senior leadership, translating technical metrics into actionable business insights.
@@ -17,6 +15,11 @@
 - Maintained 100% precision in high-volume financial transactions and daily reconciliations, ensuring the integrity of store-level sales data.
 - Monitored real-time checkout bottlenecks and customer flow, providing actionable feedback to management to improve operational efficiency during peak hours.
 - Translated complex store policies and transactional data into clear, actionable solutions for 50+ customers daily to resolve recurring service issues
+
+## Certifications
+**Google Data Analytics (_Jan 2025_)**
+- Used full data analysis process (Ask, Prepare, Process, Analyze, Share, and Act) using SQL for querying and Tableau for interactive dashboarding.
+- Applied statistical analysis and data visualization to identify market trends and develop actionable, data-backed recommendations for organizational growth and revenue optimization.
 
 ## Projects
 Cyclistic: Data-Driven Strategies for Membership Growth
