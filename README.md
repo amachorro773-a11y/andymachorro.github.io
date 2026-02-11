@@ -3,8 +3,9 @@
 **Technical Skills: SQL, Spreadsheet Software (Excel, Google Sheets), BI Tools (Tableau), Python, Java, R**
 
 ## Education
-University of California San Diego, CA 
-Bachelor of Science: Mathematics And Computer Science
+- Bachelor of Science: Mathematics And Computer Science | University of California San Diego (_Jan 2025_)		
+
+
 
 ## Work Experience 
 **IT Intern @ BPUSD (Baldwin Park Unified School District)**  ***(June - July 2021)***
