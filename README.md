@@ -8,11 +8,11 @@
 ## Work Experience 
 **IT Intern @ BPUSD (Baldwin Park Unified School District)**  ***(June - July 2021)***
 - Generated system performance reports for senior leadership, translating technical metrics into business insights.
-- Maintained high-accuracy hardware inventory databases for 100% precision in resource tracking.
+- Maintained high-integrity inventory databases for organizational hardware, ensuring 100% accuracy in resource tracking and lifecycle management.
 
 **Cashier, Customer Service @ Walmart Inc.**  ***(July 2020 - August 2022)***
-- Managed high-volume financial transactions and reconciliations to ensure store-level sales data integrity.
-- Analyzed real-time checkout flow and bottlenecks to provide management with efficiency-improving feedback.
+- Maintained 100% precision in high-volume financial transactions and daily reconciliations, ensuring the integrity of store-level sales data.
+- Monitored real-time checkout bottlenecks and customer flow, providing actionable feedback to management to improve operational efficiency during peak hours.
 
 ## Certifications
 **[Google Data Analytics Professional Certificate](https://coursera.org/share/0d73e754d8ed38551d775fc2323be34b) (_Jan 2025_)**
