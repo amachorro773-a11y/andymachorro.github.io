@@ -3,7 +3,7 @@
 **Technical Skills: SQL, Spreadsheet Software (Excel, Google Sheets), BI Tools (Tableau), Python, Java, R**
 
 ## Education
-- B.S., Math-Computer Science | University of California, San Diego (_Jan 2025_)		
+- B.S., Math-Computer Science | University of California, San Diego (_Jan 2026_)		
 
 ## Work Experience 
 **IT Intern @ BPUSD (Baldwin Park Unified School District)**  ***(June - July 2021)***
@@ -15,7 +15,7 @@
 - Monitored real-time checkout bottlenecks and customer flow, providing actionable feedback to management to improve operational efficiency during peak hours.
 
 ## Certifications
-**[Google Data Analytics Professional Certificate](https://coursera.org/share/0d73e754d8ed38551d775fc2323be34b) (_Jan 2025_)**
+**[Google Data Analytics Professional Certificate](https://coursera.org/share/0d73e754d8ed38551d775fc2323be34b) (_Jan 2026_)**
 - Applied the Ask–Act lifecycle to identify market trends and develop data-backed growth recommendations.
 - Advanced SQL querying and interactive dashboarding in Tableau and R.
 
