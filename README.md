@@ -21,9 +21,19 @@
 
 ## Projects
 **Cyclistic: Data-Driven Strategies for Membership Growth**
-- Conducted a comprehensive analysis of 5.6 million bike-share trip records to identify behavioral differences between casual riders and annual members.       Using SQL and Tableau, I identified a distinct "Leisure Segment" that peaks on weekends with double the average ride duration of commuters. I developed      a three-pillar strategic plan, including a new "Weekend Explorer" membership tier designed to convert users into predictable, recurring revenue streams.
+- Conducted a comprehensive analysis of **5.6 million** bike-share trip records to identify behavioral differences between casual riders and annual members.       Using SQL and Tableau, I identified a distinct "Leisure Segment" that peaks on weekends with double the average ride duration of commuters. I developed      a three-pillar strategic plan, including a new "Weekend Explorer" membership tier designed to convert users into predictable, recurring revenue streams.
     - Data Processing: SQL (Google BigQuery)
     - Data Visualization: Tableau Public
     - Market Segmentation & Revenue Optimization
   
 [View Full Case Study Here](https://github.com/amachorro773-a11y/Cyclistic_data_analysis)
+
+**Live Sentiment Market for Tech Stocks**
+- An end-to-end data analytics project that transforms live financial news into actionable market signals. This project features a Python-based ETL pipeline automated via GitHub Actions, quantifying investor psychology for the technology sector through the Alpha Vantage API and visualizing trends in a dynamic Tableau dashboard.
+    - Python (Pandas)
+    - Tableau
+    - Github Actions
+    - API Integration
+
+[View Project Here](https://github.com/amachorro773-a11y/Live-Market-Sentiment-)
+  
