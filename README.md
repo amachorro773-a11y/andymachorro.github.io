@@ -29,7 +29,7 @@
 [View Full Case Study Here](https://github.com/amachorro773-a11y/Cyclistic_data_analysis)
 
 **Live Sentiment Market for Tech Stocks**
-- An end-to-end data analytics project that transforms live financial news into actionable market signals. This project features a Python-based ETL pipeline automated via GitHub Actions, quantifying investor psychology for the technology sector through the Alpha Vantage API and visualizing trends in a dynamic Tableau dashboard.
+- A real-time sentiment intelligence system that transforms live financial news into actionable trading signals, utilizing a Python ETL pipeline and Tableau to quantify tech-sector investor psychology.
     - Python (Pandas)
     - Tableau Public
     - Github Actions
