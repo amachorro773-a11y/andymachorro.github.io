@@ -36,5 +36,5 @@
     - API Integration
     - Google Sheets/PostgreSQL
 
-[View Project Here](https://github.com/amachorro773-a11y/Live-Market-Sentiment-)
+[View Here](https://github.com/amachorro773-a11y/Live-Market-Sentiment-)
   
