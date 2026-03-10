@@ -39,7 +39,7 @@
 [View Here](https://github.com/amachorro773-a11y/Live-Market-Sentiment-)
 
 **eCommerce Competitive Pricing & Inventory Optimization System**
-- Created a data pipeline and Tableau decision-support system to optimize regional pricing strategies, successfully identifying positive price elasticity in key product categories and         isolating over $1M in inventory revenue-at-risk.
+- Created a data pipeline and Tableau decision-support system to optimize regional pricing strategies, successfully identifying positive price elasticity in key product categories and         isolating over **$900K** in inventory revenue-at-risk.
     - Python
     - dbt/SQL
     - Tableau
