@@ -20,19 +20,11 @@
 - Advanced SQL querying and interactive dashboarding in Tableau and R.
 
 ## Projects
-**Cyclistic: Data-Driven Strategies for Membership Growth**
-- Conducted a comprehensive analysis of **5.6 million** bike-share trip records to identify behavioral differences between casual riders and annual members.       Using SQL and Tableau, I identified a distinct "Leisure Segment" that peaks on weekends with double the average ride duration of commuters. I developed      a three-pillar strategic plan, including a new "Weekend Explorer" membership tier designed to convert users into predictable, recurring revenue streams.
-    - SQL (Google BigQuery)
-    - Tableau Public
-    - Market Segmentation & Revenue Optimization
-  
-[View Full Case Study Here](https://github.com/amachorro773-a11y/Cyclistic_data_analysis)
-
 **Live Sentiment Market for Tech Stocks**
 - A real-time sentiment intelligence system that transforms live financial news into actionable trading signals, utilizing a Python ETL pipeline and Tableau to quantify tech-sector investor psychology.
     - Python (Pandas)
-    - Tableau Public
-    - Github Actions
+    - Tableau 
+    - Git / GitHub 
     - API Integration
     - Google Sheets/PostgreSQL
 
@@ -43,5 +35,23 @@
     - Python
     - dbt/SQL
     - Tableau
+    - Git / GitHub 
       
  [View Here](https://github.com/amachorro773-a11y/eCommerce-Health.git)
+
+ **IBM Telecom Churn Prediction & Revenue-at-Risk Engine**
+ - An end-to-end ML pipeline that forecasts customer churn and quantify immediate financial risk. By training a Random Forest classifier **(ROC-AUC 0.804)** and optimizing precision-recall decision thresholds, I identified that monthly pricing and first-year tenure drive **73%** of contract cancellations. I translated these predictive probabilities into a dynamic “Revenue-at-Risk” executive dashboard, providing the retention team with a prioritized intervention roster designed to target high-value accounts and protect Annual Recurring Revenue (ARR).
+     - Snowflake (SQL)
+     - Python (Scikit-Learn, Pandas)
+     - Tableau
+     - Git / GitHub 
+
+
+ **Cyclistic: Data-Driven Strategies for Membership Growth**
+- Conducted a comprehensive analysis of **5.6 million** bike-share trip records to identify behavioral differences between casual riders and annual members.       Using SQL and Tableau, I identified a distinct "Leisure Segment" that peaks on weekends with double the average ride duration of commuters. I developed      a three-pillar strategic plan, including a new "Weekend Explorer" membership tier designed to convert users into predictable, recurring revenue streams.
+    - SQL (Google BigQuery)
+    - Tableau Public
+    - Market Segmentation & Revenue Optimization
+    - Git / GitHub 
+  
+[View Full Case Study Here](https://github.com/amachorro773-a11y/Cyclistic_data_analysis)
