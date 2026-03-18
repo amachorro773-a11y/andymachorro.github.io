@@ -40,7 +40,7 @@
  [View Here](https://github.com/amachorro773-a11y/eCommerce-Health.git)
 
  **IBM Telecom Churn Prediction & Revenue-at-Risk Engine**
- - An end-to-end ML pipeline that forecasts customer churn and quantify immediate financial risk. By training a Random Forest classifier **(ROC-AUC 0.804)** and optimizing precision-recall decision thresholds, I identified that monthly pricing and first-year tenure drive **73%** of contract cancellations. I translated these predictive probabilities into a dynamic “Revenue-at-Risk” executive dashboard, providing the retention team with a prioritized intervention roster designed to target high-value accounts and protect Annual Recurring Revenue (ARR).
+- Built an end-to-end ML pipeline to forecast customer churn and quantify financial exposure. Trained a Random Forest classifier **(ROC-AUC: 0.804)** and optimized precision-recall thresholds to align model outputs with retention capacity. Identified pricing and early-tenure risk as primary churn drivers (**73%** cumulative feature importance) and translated predicted probabilities into a dynamic Revenue-at-Risk dashboard to prioritize high-value account interventions.
      - Snowflake (SQL)
      - Python (Scikit-Learn, Pandas)
      - Tableau
