@@ -44,8 +44,9 @@
      - Snowflake (SQL)
      - Python (Scikit-Learn, Pandas)
      - Tableau
-     - Git / GitHub 
-
+     - Git / GitHub
+  
+[View Here](https://github.com/amachorro773-a11y/Predictive-Churn-Revenue-at-Risk-Engine-)
 
  **Cyclistic: Data-Driven Strategies for Membership Growth**
 - Conducted a comprehensive analysis of **5.6 million** bike-share trip records to identify behavioral differences between casual riders and annual members.       Using SQL and Tableau, I identified a distinct "Leisure Segment" that peaks on weekends with double the average ride duration of commuters. I developed      a three-pillar strategic plan, including a new "Weekend Explorer" membership tier designed to convert users into predictable, recurring revenue streams.
