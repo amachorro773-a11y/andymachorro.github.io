@@ -6,13 +6,18 @@
 - B.S., Math-Computer Science | University of California, San Diego (_Jan 2026_)		
 
 ## Work Experience 
-**IT Intern @ BPUSD (Baldwin Park Unified School District)**  ***(June - July 2021)***
-- Generated system performance reports for senior leadership, translating technical metrics into business insights.
-- Maintained high-integrity inventory databases for organizational hardware, ensuring 100% accuracy in resource tracking and lifecycle management.
-
+**Contract Web Developer @ MadeInCalifornia (Pasadena, CA)** ***(September 2025 – Present)***
+- Maintain and optimize a Cargo-based eCommerce website integrated with the Shopify API, supporting live product, pricing, and inventory data synchronization.
+- Implement front-end enhancements and API-driven updates to improve site performance, product display accuracy, and checkout usability.
+- Collaborate directly with the business owner to deploy merchandising updates and ensure consistent alignment between storefront presentation and backend inventory systems.
+  
 **Cashier, Customer Service @ Walmart Inc.**  ***(June 2021 - 2023)***
 - Maintained 100% precision in high-volume financial transactions and daily reconciliations, ensuring the integrity of store-level sales data.
 - Monitored real-time checkout bottlenecks and customer flow, providing actionable feedback to management to improve operational efficiency during peak hours.
+
+**IT Intern @ BPUSD (Baldwin Park Unified School District)**  ***(June - July 2021)***
+- Generated system performance reports for senior leadership, translating technical metrics into business insights.
+- Maintained high-integrity inventory databases for organizational hardware, ensuring 100% accuracy in resource tracking and lifecycle management.
 
 ## Certifications
 **[Google Data Analytics Professional Certificate](https://coursera.org/share/0d73e754d8ed38551d775fc2323be34b) (_Jan 2026_)**
